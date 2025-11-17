@@ -1,4 +1,4 @@
-**Palactix – GDPR Compliance Statement**
+**GDPR Compliance Statement - Palactix**
 *Last Updated: 17/11/2025*
 
 Palactix is fully committed to complying with the General Data Protection Regulation (“GDPR”) and protecting the privacy and rights of users located in the European Union (EU), the European Economic Area (EEA), and the United Kingdom (UK).
