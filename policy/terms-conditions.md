@@ -1,6 +1,5 @@
-# **Palactix – Terms & Conditions**
-
-**Last Updated: 17/11/2025**
+**Terms & Conditions - Palactix**
+*Last Updated: 17/11/2025*
 
 Welcome to Palactix (“Company”, “we”, “us”, “our”).
 These Terms & Conditions (“Terms”) govern your access to and use of our platform, website, apps, APIs, and any related services (“Services”).
