@@ -1,6 +1,5 @@
-# **Palactix – Cookie Policy**
-
-**Last Updated: 17/11/2025**
+**Cookie Policy - Palactix**
+*Last Updated: 17/11/2025*
 
 This Cookie Policy explains how Palactix (“we”, “us”, “our”) uses cookies and similar technologies when you visit our website, dashboard, or use our Services (“Service”).
 
