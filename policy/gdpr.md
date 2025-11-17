@@ -73,7 +73,7 @@ You can object to processing based on legitimate interests.
 
 ### **3.7 Right to Withdraw Consent**
 
-You may withdraw consent at any time for optional features or integrations.
+You may withdraw consent for optional features or integrations at any time.
 
 To exercise these rights, contact us at: **[support@palactix.com](mailto:support@palactix.com)**
 
