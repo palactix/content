@@ -1,195 +1,106 @@
-**Terms & Conditions - Palactix**
-*Last Updated: 17/11/2025*
+**Terms of Service – Palactix**  
+*Last updated: December 3, 2025*
 
-Welcome to Palactix (“Company”, “we”, “us”, “our”).
-These Terms & Conditions (“Terms”) govern your access to and use of our platform, website, apps, APIs, and any related services (“Services”).
+## 1. Acceptance of Terms
 
-By using Palactix, you agree to these Terms.
-If you do not agree, you must stop using our Services immediately.
+By accessing or using Palactix ("Service," "Platform," or "we"), you agree to these Terms of Service ("Terms"). If you are using the Service on behalf of an agency or organization, you represent that you have authority to bind that entity.
 
----
+We may update these Terms at any time. Continued use after changes constitutes acceptance. Check this page periodically.
 
-# **1. Eligibility**
+## 2. Eligibility
 
-To use Palactix, you must:
+You must be 18+ or the age of majority in your jurisdiction. Agencies must have a registered business. You agree to provide accurate information and not impersonate others.
 
-* Be at least 13 years old (or the minimum age required in your country).
-* Provide accurate account information.
-* Have the legal authority to accept these Terms on behalf of yourself or your organization.
+## 3. Account Registration
 
-If you are using Palactix on behalf of a business or agency, you represent that you have permission to do so.
+To use the Service, create an account with valid email and password. You are responsible for maintaining confidentiality of your credentials. Notify us immediately of unauthorized access.
 
----
+We reserve the right to suspend or terminate accounts for violations.
 
-# **2. Your Palactix Account**
+## 4. Service Description
 
-### **2.1 Account Security**
+Palactix provides a white-label social publishing platform for agencies to schedule and publish content across platforms like Instagram, TikTok, LinkedIn, X (Twitter), and Facebook. Key features:
 
-You are responsible for:
+- BYO (Bring Your Own) developer app credentials for OAuth authentication.
+- Custom consent screens showing your agency name (not Palactix).
+- Client folders, team seats, and scheduling queues.
+- Plans: Starter ($199/mo), Pro ($799/mo), Scale ($1,999+/mo).
 
-* Keeping your login credentials secure
-* All activity under your account
-* Not sharing your password with others
+You may integrate with third-party APIs (e.g., Meta Graph API), but you are responsible for compliance with those platforms' terms.
 
-If you suspect unauthorized access, you must notify us immediately.
+## 5. BYO Credentials & Token Handling
 
-### **2.2 Account Information**
+- **Your Responsibility**: You provide your own developer app credentials (App ID, Secret) for connected platforms. You must obtain approvals from those platforms (e.g., Meta App Review).
+- **Token Usage**: We use your credentials to authenticate and publish on your behalf. Tokens are encrypted at rest (AES-256) and isolated per agency. We do not access or store plaintext credentials.
+- **Consent**: By providing credentials, you consent to us using them as your service provider per platform policies (e.g., Meta's Data Use Policy). You can revoke anytime.
+- **Risks**: We throttle and queue requests to minimize ban risks, but platforms may revoke tokens or flag accounts. You are responsible for compliance; we disclaim liability for platform actions.
+- **Revocation**: Revoke tokens via dashboard to disconnect clients. We delete tokens immediately upon request.
 
-You agree to keep your profile information accurate and up to date.
+## 6. Custom Domains (Pro/Scale Plans)
 
----
+- Pro/Scale users can configure custom domains (e.g., app.youragency.com) via CNAME records to our servers.
+- You are responsible for DNS setup, SSL certificates, and domain renewal. We provide SSL termination but disclaim liability for misconfigurations or downtime.
+- Custom domains do not change API endpoints; requests proxy through our infrastructure.
 
-# **3. Use of the Service**
+## 7. User Content
 
-You agree to use Palactix only for lawful purposes and in accordance with these Terms.
-You may not:
+You own content you upload or publish (e.g., posts, media). You grant us a worldwide, non-exclusive license to store, transmit, and display it for the Service.
 
-* Access or use the Service for any illegal or harmful purpose
-* Attempt to reverse-engineer, bypass, or hack any part of the platform
-* Upload or distribute harmful code, malware, or automated bots
-* Use Palactix to spam, harass, or violate platform rules (Facebook, Instagram, LinkedIn, X, etc.)
-* Interfere with servers, networks, or functionality of the Service
+You represent that content does not violate laws, platform policies, or third-party rights. We may remove violating content without notice.
 
-Violation of these rules may result in suspension or permanent termination of your account.
+## 8. Payments & Billing
 
----
+- Plans billed monthly or annually via Paddle. Prices: Starter $199/mo, Pro $799/mo, Scale custom.
+- Trials: 14 days free, no card required. Upgrade to paid for full access.
+- Refunds: 30 days money-back for first subscription if unsatisfied. No refunds for custom work or abuse.
+- Taxes: You pay all taxes. Paddle handles VAT/GST.
+- Cancellation: Cancel anytime via dashboard; access ends at period end.
 
-# **4. Connected Platforms**
+## 9. Prohibited Conduct
 
-When connecting external platforms (e.g., Facebook, Instagram, LinkedIn, X, Slack, Jira, Monday):
+- Do not: Reverse-engineer, scrape, or interfere with the Service.
+- Do not use for spam, illegal content, or violating platform policies (e.g., Meta's Terms).
+- Do not share credentials with unauthorized parties.
+- We may suspend accounts for violations without refund.
 
-* You grant Palactix permission to access the data allowed by those platforms’ APIs
-* We only perform actions you explicitly authorize (posting, scheduling, analytics, etc.)
-* You are responsible for following each platform’s terms of service
-* If an external platform disables, changes, or limits API access, related features may stop working
+## 10. Intellectual Property
 
-Palactix is not responsible for external service interruptions or permission changes.
+We own the Service, including code, designs, and trademarks. You own your content and agency branding (e.g., custom app names/logos).
 
----
+## 11. Third-Party Services
 
-# **5. User Content**
+The Service integrates with social platforms. Their terms apply (e.g., Meta's Developer Policy). We are not liable for their actions (e.g., token revocations).
 
-### **5.1 Ownership**
+## 12. Disclaimer of Warranties
 
-You retain full rights to all content you upload, schedule, create, or publish through Palactix.
+The Service is provided "as is." We disclaim all warranties, express or implied, including accuracy or uninterrupted access. Platforms may change APIs, causing disruptions—we'll mitigate but not guarantee.
 
-### **5.2 License to Operate the Service**
+## 13. Limitation of Liability
 
-By using Palactix, you grant us a limited license to store, display, and process your content **only** for the purpose of operating the Service.
-We do **not** claim ownership of your posts, media, or data.
+To the maximum extent permitted by law, we are not liable for indirect, incidental, or consequential damages (e.g., lost profits, client losses). Total liability limited to fees paid in prior 12 months.
 
-### **5.3 Responsibility for Content**
+## 14. Indemnification
 
-You are solely responsible for the legality of your content.
-Do not upload anything unlawful, copyrighted without permission, or platform-restricted.
+You indemnify us against claims arising from your content, credentials, or use (e.g., platform bans due to violations).
 
----
+## 15. Termination
 
-# **6. Payments & Subscriptions**
+We may terminate for violations. You may terminate anytime. Upon termination, access ends; data retained 30 days for export.
 
-### **6.1 Billing**
+## 16. Governing Law
 
-Some features require a paid subscription.
-By subscribing, you authorize us (or our payment processor) to charge your chosen payment method.
+These Terms governed by laws of India, without conflict principles. Disputes resolved in Mumbai courts. EU users: Subject to GDPR.
 
-### **6.2 Auto-Renewal**
+## 17. Arbitration (US Users)
 
-Subscriptions renew automatically unless canceled.
-You may cancel anytime from your account settings.
+For US users, disputes resolved by binding arbitration in Mumbai under Indian Arbitration Act, not class actions.
 
-### **6.3 Refunds**
+## 18. Miscellaneous
 
-We do not guarantee refunds unless required by local law.
-Refund decisions are handled case-by-case.
+These Terms constitute the entire agreement. No waiver unless written. Severability: Invalid provisions don't affect others.
 
-### **6.4 Pricing Changes**
+## 19. Contact Us
 
-We may update pricing; if we do, we’ll notify you in advance.
+Questions? Email support@palactix.com.
 
 ---
-
-# **7. Service Availability**
-
-We strive to keep Palactix available at all times but:
-
-* The Service may experience downtime
-* Features may evolve, update, or change
-* Integrations may break due to third-party platform changes
-* We may temporarily suspend access for maintenance or security reasons
-
-We are not liable for any loss caused by outages, downtime, or API restrictions by connected platforms.
-
----
-
-# **8. API Usage (For Developers)**
-
-If you use Palactix APIs or build apps inside Palactix:
-
-* You must follow all API rules, rate limits, and permission requirements
-* You may not abuse or overload the system
-* Tokens must be kept secure
-* Apps must request only the permissions they need
-* We may suspend your API access for misuse or suspicious activity
-
-Any app you develop using Palactix is solely your responsibility.
-
----
-
-# **9. Termination of Service**
-
-We may suspend or terminate your account if you:
-
-* Violate these Terms
-* Abuse the platform or integrations
-* Engage in illegal activities
-* Fail to pay for your subscription
-* Harm or attempt to harm our system or users
-
-Upon termination, we may delete your data according to our Privacy Policy.
-
----
-
-# **10. Disclaimers**
-
-Palactix is provided “as is” and “as available.”
-We do not guarantee:
-
-* uninterrupted service
-* error-free performance
-* compatibility with every device
-* that published posts will always succeed (due to external APIs)
-
-You use Palactix at your own risk.
-
----
-
-# **11. Limitation of Liability**
-
-To the maximum extent allowed by law, Palactix is not responsible for:
-
-* Loss of data
-* Loss of profits or business
-* Downtime or service interruptions
-* Issues caused by third-party platforms
-* Unauthorized access due to your negligence
-
-Our total liability is limited to the amount you paid for the Service in the past 12 months.
-
----
-
-# **12. Changes to Terms**
-
-We may update these Terms at any time.
-If changes are significant, we will notify you by email or in-app message.
-
-Continued use of Palactix means you accept the updated Terms.
-
----
-
-# **14. Contact Us**
-
-If you have questions about these Terms:
-
-**Email:** [support@palactix.com](mailto:support@palactix.com)
-**Website:** palactix.com
-
