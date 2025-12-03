@@ -1,84 +1,91 @@
-**Privacy Policy – Palactix**
-*Last updated: 17/11/2025*
+**Privacy Policy – Palactix**  
+*Last updated: December 3, 2025*
 
 ## 1. Introduction
 
-Welcome to Palactix (“Company”, “we”, “us”, or “our”). We provide a platform and services (“Service”) to plan, manage, automate and integrate social media content, account workflows, and developer-apps across multiple platforms. We respect your privacy and are committed to protecting your personal data.
-This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Service. If you do not agree with the terms of this Privacy Policy, please do not use our Service.
+Welcome to Palactix ("Company," "we," "us," or "our"). We provide a white-label social publishing platform and services ("Service") to agencies for planning, scheduling, and managing content across platforms like Instagram, TikTok, LinkedIn, X (Twitter), and Facebook. Our Service allows agencies to use their own developer app credentials (BYO keys) for OAuth authentication, ensuring clients see only the agency's branding on consent screens.
+
+We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Service. By using Palactix, you consent to these practices. If you do not agree, please do not use our Service.
+
+Palactix is based in India and complies with applicable global privacy laws, including GDPR (EU/EEA) and CCPA (California). For EU/EEA users, we act as a data processor when handling connected platform data on your behalf.
 
 ## 2. Data We Collect
 
-We collect various types of data, including but not limited to:
+We collect data necessary to provide our Service, including:
 
-* **Personal Information**: your name, email address, profile picture URL, and any other information you provide when creating an account or updating your profile.
-* **Account Credentials**: passwords (hashed) if you register via email/password; if you sign in via third-party OAuth provider (e.g., Google), we may receive your email and profile details per that provider’s policy.
-* **Connected Platform Data**: With your permission, we access tokens, profile IDs, usernames for connected social media or work-tool platforms. We use this to enable posts, scheduling, and analytics.
-* **Payment Information**: If you subscribe to paid features, we collect billing address, transaction IDs, payment method information via our payment partner (we do not store full card numbers on our servers).
-* **Usage & Technical Data**: IP address, browser type, device information, operating system, pages visited, clicks, time spent — collected automatically via cookies and related technologies.
-* **Uploaded Media**: images, videos or other media you upload into the Service (including via integrations).
-* **Other Data**: any other data you provide or we get in the course of offering our Service.
+- **Personal Information**: Name, email address, agency name, profile picture URL, and billing details (e.g., address for payments) when you create an account or subscribe.
+- **Account Credentials**: Hashed passwords for email/password logins. For OAuth logins (e.g., Google), we receive your email and profile per that provider's policy.
+- **BYO App Credentials**: App IDs, secrets, and OAuth tokens you provide for connected platforms (e.g., Meta, TikTok). These are encrypted at rest using AES-256 and used only to authenticate and publish on your behalf. We do not access or store plaintext credentials.
+- **Connected Platform Data**: With your explicit consent, access tokens, profile IDs, usernames, and content metadata from connected social accounts. This enables publishing, scheduling, and basic analytics (e.g., post status).
+- **Payment Information**: Transaction IDs, billing address, and payment method metadata via our processor (Paddle). We do not store full card numbers.
+- **Usage & Technical Data**: IP address, browser/device info, pages visited, clicks, and timestamps (via cookies and analytics). This helps improve the Service and detect abuse.
+- **Uploaded Media**: Images, videos, or content you upload for publishing (stored temporarily, deleted after posting unless you specify otherwise).
+- **Other Data**: Any information you provide via support tickets or integrations.
+
+We do not collect sensitive data (e.g., health, political opinions) unless you voluntarily share it.
 
 ## 3. How We Use Your Data
 
-We use your data for the following purposes:
+We use data solely to deliver the Service:
 
-* Create and manage your user account and subscription.
-* Enable posting, scheduling and publishing of content across multiple platforms.
-* Facilitate integrations with third-party services (design tools, AI content engines, work-tool integrations).
-* Process payments and manage billing.
-* Store, retrieve and distribute your uploaded media files.
-* Provide customer support, respond to inquiries, and resolve service issues.
-* Analyze usage patterns and performance to improve the Service.
-* Send you administrative communications (policy updates, changes to Service).
-* Detect, prevent and address fraud, abuse or technical issues.
-  We do **not** sell your personal data to third parties, nor share it with advertisers for profiling (unless you explicitly opt in).
+- Manage accounts, subscriptions, and payments.
+- Authenticate and publish content using your BYO credentials (e.g., OAuth tokens for Instagram posts).
+- Provide features like scheduling, client folders, and token refresh.
+- Process integrations with social platforms (e.g., Meta Graph API) on your behalf.
+- Send service updates, billing info, or support responses.
+- Analyze usage for improvements (aggregated, anonymized data only).
+- Detect/prevent fraud or abuse (e.g., rate limiting to avoid platform bans).
+- Comply with legal obligations (e.g., tax reporting).
+
+We do not sell your data or use it for advertising. Token usage is logged for transparency (e.g., "Token used for post at 2:15 PM") but not shared without consent.
 
 ## 4. Cookies & Tracking Technologies
 
-We use cookies, session storage and similar tracking technologies to monitor activity on our Service and store your login status, preferences, analytics data.
-You can instruct your browser to refuse all cookies or indicate when a cookie is being sent. However, if you do so, some portions of the Service may not function properly.
+We use essential cookies for authentication (HttpOnly, secure) and optional analytics cookies (e.g., Google Analytics for usage trends). You can manage preferences in your browser settings. Disabling cookies may limit functionality (e.g., login).
+
+- **Essential**: Session management, security.
+- **Analytics**: Aggregated usage data (opt-out available).
 
 ## 5. Data Sharing & Disclosure
 
-We may share your personal data in the following situations or with the following parties:
+We share data only as needed:
 
-* **Service Providers**: Third parties who perform services on our behalf (e.g., payment processors, cloud hosting providers, analytics services, AI engines).
-* **Connected Platforms**: When you connect and schedule content on a social/work-tool platform, we transmit necessary information to that platform’s API.
-* **Business Transfers**: In case of merger, acquisition, or sale of assets, your personal data may be part of transferred assets; we will give notice as required.
-* **Legal Obligations**: We may disclose your data in response to lawful requests by public authorities or to investigate or prevent wrongdoing.
-* **Protection of Rights**: We may disclose your personal data when we believe necessary to enforce our Terms of Service or this Privacy Policy, or to protect rights, property, safety of users or public.
+- **Service Providers**: Encrypted with partners like Paddle (payments), cloud hosts (storage), and social APIs (publishing). They are bound by contracts to protect data.
+- **Connected Platforms**: Tokens and content metadata are sent to platforms (e.g., Instagram) for publishing, per your consent and their policies (e.g., Meta's Data Use Policy). We do not share your agency data with platforms.
+- **Business Transfers**: In mergers/acquisitions, data may transfer with notice.
+- **Legal**: To comply with laws, subpoenas, or protect rights/safety.
+- **With Consent**: Only if you explicitly agree (e.g., integrations).
+
+We never sell data or share for marketing.
 
 ## 6. Data Retention
 
-We retain your personal data only as long as necessary for the purposes stated in this Privacy Policy, unless a longer retention period is required or permitted by law.
-Once retention is no longer needed, we securely delete or anonymize your personal data.
+- Personal/account data: As long as your account is active + 30 days post-deletion.
+- Tokens/credentials: Deleted immediately on revocation or account closure.
+- Logs: 90 days for security, then anonymized.
+- Media: Deleted after posting unless you choose storage.
+
+We delete data when no longer needed or upon request.
 
 ## 7. Data Security
 
-We implement industry-standard technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction or damage. Access to your personal data is limited to Authorized personnel who need it to perform their job functions. However, please note that no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
+We use AES-256 encryption for credentials/tokens, HTTPS everywhere, and access controls (e.g., role-based). Tokens are isolated per agency. Regular audits and monitoring detect breaches. No system is 100% secure—we notify affected users if a breach occurs.
 
-## 8. Children’s Privacy
+## 8. Children's Privacy
 
-Our Service is not intended for individuals under the age of 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal data from children under this age. If you become aware that a child under that age has provided us with personal data, please contact us and we will take steps to delete such information.
+Our Service is for users 13+ (or local minimum age). We do not knowingly collect children's data. Contact us if you believe we have.
 
 ## 9. Your Rights
 
-Depending on your jurisdiction, you may have rights regarding your personal data, including but not limited to:
+Under GDPR/CCPA, you have rights to access, correct, delete, object, or port data. Submit requests to support@palactix.com. We respond within 30 days. EU users: Our DPO is at dpo@palactix.com.
 
-* Right of Access – To request access to the personal data we hold about you.
-* Right of Rectification – To request correction of inaccurate or incomplete personal data.
-* Right of Erasure – To request deletion of your personal data under certain conditions.
-* Right to Restrict Processing – To request restriction of how we use your personal data.
-* Right to Data Portability – To request a copy of your personal data in a structured, machine-readable format.
-* Right to Object – To object to certain types of processing (e.g., direct marketing).
-* Right to Withdraw Consent – Where processing is based on your consent, you may withdraw that consent at any time.
-  If you wish to exercise these rights, please contact us at the details below. We will respond within a reasonable timeframe and in accordance with applicable law.
+## 10. Changes to This Policy
 
-## 10. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal or regulatory reasons. When we do, we will revise the “Last updated” date at the top of this page. We encourage you to review this policy periodically for the latest information on our privacy practices.
+We update this policy as needed, with notice via email or site. Continued use = acceptance.
 
 ## 11. Contact Us
 
-If you have any questions about this Privacy Policy, your personal data or our privacy practices, or if you wish to make a complaint, please contact us at:
-**Email:** [[support@palactix.com](mailto:support@palactix.com)]
+Questions? Email support@palactix.com.  
+For EU GDPR: dpo@palactix.com.
+
+---
