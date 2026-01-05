@@ -1,0 +1,24 @@
+# Refund Policy – Palactix  
+*Last updated: January 5, 2026*
+
+Palactix is a subscription-based SaaS platform for digital marketing agencies.
+
+## Evaluation Period
+New customers receive a **14-day evaluation period** with full access to all core features.  
+The evaluation period begins once you successfully connect your first client account using your own app credentials.
+
+## Refunds
+After the evaluation period ends, subscriptions become paid.  
+**Subscription fees are non-refundable**, except where required by applicable law.
+
+If you believe you were charged in error or have a billing concern, please contact us at **support@palactix.com**, and we will assist you.
+
+## Cancellation
+You may cancel your subscription at any time via your account settings.  
+Upon cancellation, access continues until the end of the current billing period. No prorated refunds are provided for unused time.
+
+## Billing & Payments
+All payments and refunds are processed by **Paddle**, which acts as the Merchant of Record for Palactix and handles applicable taxes and compliance.
+
+## Questions
+If you have any questions regarding billing or refunds, please contact **support@palactix.com**.
