@@ -1,9 +1,11 @@
 **Terms of Service – Palactix**  
-*Last updated: December 3, 2025*
+*Last updated: January 5, 2026*
 
 ## 1. Acceptance of Terms
 
-By accessing or using Palactix ("Service," "Platform," or "we"), you agree to these Terms of Service ("Terms"). If you are using the Service on behalf of an agency or organization, you represent that you have authority to bind that entity.
+These Terms and Conditions (“Terms”) are entered into by and between **Palactix** (“Palactix”, “we”, “us”, or “our”) and the individual or entity accessing or using the Palactix platform (“you” or “your”).
+
+By accessing or using the Palactix website, platform, or services, you agree to be bound by these Terms.
 
 We may update these Terms at any time. Continued use after changes constitutes acceptance. Check this page periodically.
 
