@@ -3,14 +3,7 @@ title: "How Agencies Quietly Bleed Money Managing Just 10 Client Accounts (2026 
 description: "Why agency growth starts breaking silently around client #10 — and how margins shrink without anyone noticing."
 date: "2026-01-14"
 tags: ["agency", "operations", "scaling", "saas"]
-image: "/blog/hidden-cost-10-accounts.png"
-faqs:
-  - q: "Why does managing client accounts become harder after a certain point?"
-    a: "Because most tools and workflows are designed for individual execution, not multi-client systems with shared ownership, permissions, and accountability."
-  - q: "Is this mainly a people problem or a tools problem?"
-    a: "It’s a systems problem. Hiring more people or adding more tools often increases complexity instead of reducing it."
-  - q: "When should agencies rethink their operating model?"
-    a: "As soon as growth starts creating workarounds, duplicated tools, or unclear ownership — that’s the earliest warning sign."
+image: "/blog/how-agencies-quietly-bleed-money-managing-just-10-client-accounts-2026-reality.png"
 ---
 
 ## Everything Feels Manageable… Until It Doesn’t
@@ -206,14 +199,3 @@ or the biggest teams.
 They’re the ones that recognize when individual workflows must evolve into systems — and act before chaos becomes normal.
 
 ---
-
-## FAQs
-
-### Why does managing client accounts get harder after a certain point?
-Because most tools optimize for individual execution, not shared ownership, permissions, and accountability across multiple clients.
-
-### Is this mainly a tools issue?
-Not exactly. It’s a systems issue. Tools are part of the system, but structure and governance matter just as much.
-
-### When should agencies rethink their setup?
-When growth starts creating workarounds instead of leverage — that’s the earliest and cheapest signal.
