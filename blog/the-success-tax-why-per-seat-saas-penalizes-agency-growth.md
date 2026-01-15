@@ -80,7 +80,7 @@ By using your own API keys (the direct connection to social platforms) through a
 
 Before adding another seat, another tool, or another hire, there’s a more important question for the CEO:
 
-> “Does our software get more expensive when we succeed — or more efficient?”
+> Does our software get more expensive when we succeed — or more efficient?
 
 If the tool didn’t change, but the price did, you are paying a Success Tax.
 

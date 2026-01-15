@@ -26,8 +26,8 @@ Everyone feels busy — yet progress feels slower.
 
 Last month, an agency owner messaged me:
 
-> “We added three new clients. Revenue went up — but our software bill jumped by hundreds overnight.  
-> It felt like we were being punished for growing.”
+> We added three new clients. Revenue went up — but our software bill jumped by hundreds overnight.  
+> It felt like we were being punished for growing.
 
 That feeling is common — and rarely discussed.
 
