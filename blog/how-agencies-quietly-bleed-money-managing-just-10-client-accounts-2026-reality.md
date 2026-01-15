@@ -1,9 +1,11 @@
 ---
 title: "How Agencies Quietly Bleed Money Managing Just 10 Client Accounts (2026 Reality)"
 description: "Why agency growth starts breaking silently around client #10 — and how margins shrink without anyone noticing."
-date: "2026-01-14"
+author: "Jitendra Meena"
+created_at: "2026-01-14:10:08:00"
+updated_at: "2026-01-15:12:10:00"
 tags: ["agency", "operations", "scaling", "saas"]
-image: "/blog/how-agencies-quietly-bleed-money-managing-just-10-client-accounts-2026-reality.png"
+image: "/images/blog/how-agencies-quietly-bleed-money-managing-just-10-client-accounts-2026-reality.png"
 ---
 
 ## Everything Feels Manageable… Until It Doesn’t
