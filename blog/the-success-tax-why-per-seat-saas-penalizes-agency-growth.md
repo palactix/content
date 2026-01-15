@@ -41,7 +41,7 @@ You aren't being punished for inefficiency; you are being charged for activity.
 
 ---
 
-## The Math of the "Margin Gap"
+## The Math of the “Margin Gap”
 
 Let’s stop talking in theories and look at the bank account.
 
