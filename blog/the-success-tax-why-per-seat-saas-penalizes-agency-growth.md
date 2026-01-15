@@ -1,5 +1,6 @@
 ---
 title: "The Success Tax: Why Per-Seat SaaS Penalizes Agency Growth"
+slug: "the-success-tax-why-per-seat-saas-penalizes-agency-growth"
 description: "Why agencies pay more as they succeed — and how per-seat pricing quietly turns growth into a margin problem."
 author: "Jitendra Meena"
 created_at: "2026-01-15 12:10:00"
