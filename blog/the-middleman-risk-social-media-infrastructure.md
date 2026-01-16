@@ -26,7 +26,7 @@ In 2026, being a tenant is a strategic liability.
 
 ---
 
-## What “The Middleman” Actually Is
+## What "The Middleman" Actually Is
 
 In social media operations, the middleman is the tool that sits between your agency, your client, and the social platforms (Meta, X, TikTok, LinkedIn). 
 
@@ -52,9 +52,9 @@ It diminishes your authority. Agencies that use their own API keys see something
 
 ## 2. Where the Risk Actually Shows Up
 
-The middleman risk doesn’t appear on Day 1. It shows up in moments agencies don’t plan for:
+The middleman risk doesn't appear on Day 1. It shows up in moments agencies don't plan for:
 * **Platform Shifts:** A social platform changes its API policy, and your "middleman" takes weeks to adapt.
-* **The "Posted Via" Tag:** A high-ticket client asks, “Why does our content say *posted via [Third Party]*?”
+* **The "Posted Via" Tag:** A high-ticket client asks, "Why does our content say *posted via [Third Party]*?"
 * **Outages:** A tool outage pauses publishing across all 50 of your clients simultaneously, leaving you helpless.
 
 At a small scale, these are inconveniences. At agency scale, they become **existential business risks**.
@@ -87,7 +87,7 @@ By moving to a **Sovereign Model** (using your own API keys through a dedicated 
 
 Before adding another feature or another client, ask yourself:
 
-> **“If our software vendor disappeared tomorrow, would our agency still be able to publish for our clients?”**
+> **If our software vendor disappeared tomorrow, would our agency still be able to publish for our clients?**
 
 If the answer is **"No,"** the agency is more dependent than it may realize. It’s worth asking whether renting the foundation is still the right long-term choice.
 
