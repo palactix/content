@@ -7,6 +7,11 @@ created_at: "2026-01-16 13:42:13"
 updated_at: "2026-01-16 13:42:13"
 tags: ["social-media-agencies", "infrastructure", "risk", "scaling", "operations"]
 image: "/blog/middleman-risk-social-infrastructure.jpeg"
+faqs:
+  - q: "How does "Infrastructure Sovereignty" solve this?"
+    a: "It allows the agency to use its own API credentials. The software acts as the interface, but the *connection* and the *brand* belong entirely to the agency."
+  - q: "Is this only for large agencies?"
+    a: "While large agencies feel the risk more, small agencies that start with sovereignty avoid the painful "re-platforming" process later as they grow."
 ---
 
 ## The Invisible Layer Agencies Rarely Think About
