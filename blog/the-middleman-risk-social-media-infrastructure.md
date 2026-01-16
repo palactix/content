@@ -6,7 +6,7 @@ author: "Palactix Team"
 created_at: "2026-01-16 13:42:13"
 updated_at: "2026-01-16 13:42:13"
 tags: ["social-media-agencies", "infrastructure", "risk", "scaling", "operations"]
-image: "/blog/middleman-risk-social-infrastructure.jpeg"
+image: "/images/blog/middleman-risk-social-infrastructure.jpeg"
 faqs:
   - q: 'What is the "middleman risk" for social media agencies?'
     a: "It's the operational and reputational risk created when a third-party tool sits between the agency and   social platforms, controlling access and publishing identity."
