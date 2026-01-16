@@ -26,7 +26,7 @@ In 2026, being a tenant is a strategic liability.
 
 ---
 
-## What "The Middleman" Actually Is
+## What The Middleman Actually Is
 
 In social media operations, the middleman is the tool that sits between your agency, your client, and the social platforms (Meta, X, TikTok, LinkedIn). 
 
@@ -40,21 +40,21 @@ For a long time, this feels convenient. Until it doesn’t.
 
 ---
 
-## 1. The "Brand Authority" Gap
+## 1. The Brand Authority Gap
 
 Every time you ask a client to connect their accounts, they see a **Consent Screen**. 
 
-When that screen says **"Allow [Third-Party App] to access your data,"** you are quietly telling your client: *"We don't actually own the technology we use to serve you. We are just using a tool you could buy yourself."*
+When that screen says **Allow [Third-Party App] to access your data,** you are quietly telling your client: *We don't actually own the technology we use to serve you. We are just using a tool you could buy yourself.*
 
-It diminishes your authority. Agencies that use their own API keys see something very different. The consent screen says: **"Allow [Your Agency Name] to access your data."** That shift changes you from a "manager of a tool" to a "provider of a proprietary platform."
+It diminishes your authority. Agencies that use their own API keys see something very different. The consent screen says: **Allow [Your Agency Name] to access your data.** That shift changes you from a *“manager of a tool"* to a *“provider of a proprietary platform.”*
 
 ---
 
 ## 2. Where the Risk Actually Shows Up
 
 The middleman risk doesn't appear on Day 1. It shows up in moments agencies don't plan for:
-* **Platform Shifts:** A social platform changes its API policy, and your "middleman" takes weeks to adapt.
-* **The "Posted Via" Tag:** A high-ticket client asks, "Why does our content say *posted via [Third Party]*?"
+* **Platform Shifts:** A social platform changes its API policy, and your “middleman” takes weeks to adapt.
+* **The “Posted Via” Tag:** A high-ticket client asks, “Why does our content say *posted via [Third Party]*?”
 * **Outages:** A tool outage pauses publishing across all 50 of your clients simultaneously, leaving you helpless.
 
 At a small scale, these are inconveniences. At agency scale, they become **existential business risks**.
