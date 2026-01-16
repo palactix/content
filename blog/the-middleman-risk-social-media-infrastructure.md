@@ -1,8 +1,8 @@
 ---
 title: "The Middleman Risk: Why Renting Your Social Media Infrastructure Is a Liability"
 slug: "the-middleman-risk-social-media-infrastructure"
-description: "How social media agencies unknowingly give up control by renting publishing infrastructure — and why that risk only shows up at scale."
-author: "Palactix Team"
+description: "How social media agencies unknowingly give up control by renting publishing infrastructure — and why that risk only shows up at scale"
+author: "Jitendra Meena"
 created_at: "2026-01-16 13:42:13"
 updated_at: "2026-01-16 13:42:13"
 tags: ["social-media-agencies", "infrastructure", "risk", "scaling", "operations"]
