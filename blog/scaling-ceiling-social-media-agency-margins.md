@@ -1,6 +1,6 @@
 ---
 title: "The Scaling Ceiling: Why Social Media Agency Profit Margins Shrink at 20+ Clients"
-slug: "scaling-ceiling-successful-but-strained-social-media-agencies"
+slug: "scaling-ceiling-social-media-agency-margins"
 description: "Revenue is growing, but margins aren’t. Discover why social media agencies hit a scaling ceiling around 15–25 clients—and why growth starts feeling heavy"
 author: "Jitendra Meena"
 created_at: "2026-01-20 10:00:00"
