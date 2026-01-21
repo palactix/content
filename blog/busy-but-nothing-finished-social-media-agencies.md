@@ -3,8 +3,8 @@ title: "The Real Reason Your Team Is Always Busy but Nothing Feels Finished"
 slug: "busy-but-nothing-finished-social-media-agencies"
 description: "Why activity has replaced output in growing social media agencies — and how fragmented authority quietly destroys momentum."
 author: "Jitendra Meena"
-created_at: "2026-01-20 10:00:00"
-updated_at: "2026-01-20 10:00:00"
+created_at: "2026-01-21 06:10:00"
+updated_at: "2026-01-21 06:10:00"
 tags: ["social-media-agencies", "workflow", "operations", "scaling"]
 image: "/images/blog/busy-but-nothing-finished.jpeg"
 faqs:
@@ -21,13 +21,13 @@ faqs:
 
 Ask any social media agency founder how the team is doing and you’ll hear the same answer:
 
-> “Everyone’s working nonstop.”
+> Everyone’s working nonstop.
 
 Yet deadlines slip.  
 Campaigns stretch.  
 Nothing ever feels fully finished.
 
-The team is busy — constantly.
+The team is busy constantly.
 
 But progress feels slow.
 
@@ -52,7 +52,7 @@ Publishing stalls on access.
 Managers wait on clients.  
 Founders wait on tools.
 
-Work exists — but ownership is unclear.
+Work exists, but ownership is unclear.
 
 ---
 
