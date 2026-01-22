@@ -3,8 +3,8 @@ title: "The Sovereign Agency: Moving from Renter to Owner"
 slug: "sovereign-agency-renter-to-owner"
 description: "Why most social media agencies unknowingly run on rented infrastructure — and how ownership changes margins, control, and scale."
 author: "Jitendra Meena"
-created_at: "2026-01-21 10:00:00"
-updated_at: "2026-01-21 10:00:00"
+created_at: "2026-01-22 10:00:00"
+updated_at: "2026-01-22 10:00:00"
 tags: ["social-media-agencies", "agency-infrastructure", "ownership", "scaling", "operations"]
 image: "/images/blog/sovereign-agency-renter-owner.jpeg"
 faqs:
@@ -115,11 +115,11 @@ What remains is mindset.
 
 A renter asks:
 
-> “Which tool should we use?”
+> Which tool should we use?
 
 A sovereign agency asks:
 
-> **“Who owns our connection to the platforms?”**
+> **Who owns our connection to the platforms?**
 
 Because once ownership exists:
 
