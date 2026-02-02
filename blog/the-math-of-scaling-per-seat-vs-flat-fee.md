@@ -119,7 +119,7 @@ That’s how sustainable agencies scale.
 
 Before your next hire, ask:
 
-> **“Will this person increase profit — or just increase our software bill?”**
+> **Will this person increase profit — or just increase our software bill?**
 
 If the answer isn’t clear, the problem isn’t hiring.
 
