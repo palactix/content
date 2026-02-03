@@ -3,8 +3,8 @@ title: "The Math of Scaling: Why Per-Seat Pricing Becomes a Growth Tax"
 slug: "the-math-of-scaling-per-seat-vs-flat-fee"
 description: "A simple 3-year breakdown showing how per-seat pricing quietly erodes social media agency margins — even when revenue grows."
 author: "Jitendra Meena"
-created_at: "2026-01-28"
-updated_at: "2026-01-28"
+created_at: "2026-01-28 08:10:00"
+updated_at: "2026-01-28 08:10:00"
 tags: ["social-media-agencies", "agency-economics", "per-seat-pricing", "flat-fee-infrastructure", "profit-margins"]
 image: "/images/blog/flat-fee-vs-per-seat-3-year-math.jpeg"
 faqs:
