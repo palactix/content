@@ -20,7 +20,7 @@ faqs:
     a: "If switching tools disrupts client publishing or requires reconnection, the agency is operationally locked into the vendor."
   - q: "Is this a technical issue or a business issue?"
     a: "It’s a business issue. Technical ownership determines whether agencies retain leverage, stability, and margins as they scale."
-image: "/images/blog/data-sovereignty-access-portability.jpeg"
+image: "/images/blog/data-sovereignty-agencies-lose-control.jpeg"
 ---
 
 ## The Problem Agencies Don’t Notice Until It’s Too Late
