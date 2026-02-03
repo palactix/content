@@ -67,7 +67,7 @@ Agencies usually discover the problem when they try to change something:
 
 Suddenly the question appears:
 
-> “If we leave this tool, will our clients have to reconnect everything?”
+> If we leave this tool, will our clients have to reconnect everything?
 
 If the answer is **yes**, the agency is no longer operating freely.
 
