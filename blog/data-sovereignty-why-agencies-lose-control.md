@@ -5,14 +5,7 @@ description: "Why social media agencies quietly lose control when platform acces
 author: "Jitendra Meena"
 created_at: "2026-02-03 06:40:10"
 updated_at: "2026-02-03 06:40:10"
-tags:
-  [
-    "social-media-agencies",
-    "data-sovereignty",
-    "agency-infrastructure",
-    "vendor-lock-in",
-    "scaling-operations"
-  ]
+tags: ["social-media-agencies", "data-sovereignty", "agency-infrastructure", "vendor-lock-in", "scaling-operations"]
 faqs:
   - q: "What does data sovereignty mean for a social media agency?"
     a: "It means the agency controls the platform access and credentials required to publish content, rather than depending on a third-party tool to hold that access."
