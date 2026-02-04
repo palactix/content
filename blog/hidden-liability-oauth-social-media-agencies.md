@@ -12,6 +12,7 @@ tags: [
   "vendor-risk",
   "platform-dependency"
 ]
+image: "/images/blog/hidden-liability-oauth-social-media-agencies.jpeg"
 faqs:
   - q: "What does OAuth ownership actually mean for a social media agency?"
     a: "It means who controls the application and tokens that connect client accounts to social platforms. In most tools, that control belongs to the vendor—not the agency."
@@ -37,7 +38,7 @@ Which is exactly why this risk stays invisible.
 Because the most dangerous failures in agencies don’t arrive as explosions —  
 they arrive as **sudden, confusing emails**:
 
-> “Your account needs to be reconnected.”
+> Your account needs to be reconnected.
 
 No warning.  
 No wrongdoing.  
@@ -159,7 +160,7 @@ Don’t wait for a mass reconnection event.
 
 Ask your vendor one question:
 
-> **“Can I move my client tokens to my own App ID today?”**
+> **Can I move my client tokens to my own App ID today?**
 
 If the answer is **no** —  
 you are not a partner.
