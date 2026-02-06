@@ -33,8 +33,6 @@ faqs:
     a: "They see nothing different. Their accounts remain connected. Posts continue publishing. The only visible change is that authorization and ownership belong to your agency—not your vendor."
 ---
 
-# The 10-Minute Migration: Moving Clients Without Reconnect Chaos
-
 Most social media agencies believe migrations are supposed to be painful.
 
 Emails to every client.  
