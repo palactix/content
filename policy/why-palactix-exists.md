@@ -193,17 +193,17 @@ Not technical.
 
 Palactix is built for:
 
-✓ Social media agencies managing 15+ brands  
-✓ Owners who care about control more than convenience  
-✓ Teams thinking 5–10 years ahead  
-✓ Agencies willing to invest setup time for long-term ownership  
+✅ Social media agencies managing 15+ brands  
+✅ Owners who care about control more than convenience  
+✅ Teams thinking 5–10 years ahead  
+✅ Agencies willing to invest setup time for long-term ownership  
 
 Probably not for:
 
-✗ Solo freelancers  
-✗ Agencies happy with per-seat pricing  
-✗ Teams who never plan to switch tools  
-✗ Anyone who prefers vendor lock-in
+❌ Solo freelancers  
+❌ Agencies happy with per-seat pricing  
+❌ Teams who never plan to switch tools  
+❌ Anyone who prefers vendor lock-in
 
 We’re optimizing for agencies who want to build, not rent.
 
