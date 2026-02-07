@@ -1,5 +1,3 @@
-# Why Palactix Exists
-
 Most social media agencies believe they own their business.
 
 They own their client relationships.  
